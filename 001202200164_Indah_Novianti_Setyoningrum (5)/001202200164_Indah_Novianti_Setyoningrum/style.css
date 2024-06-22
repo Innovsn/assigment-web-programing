@@ -1,0 +1,43 @@
+.Jumbotron {
+    padding-top: 6rem;
+    background-color:#e3d5ca ;
+}
+.About {
+    padding-top: 6rem;
+    background-color: #e3d5ca;
+  }
+  .Certificate {
+    padding-top: 6rem;
+    background-color: #292929;
+  }
+  .Contact {
+    padding-top: 6rem;
+    background-color: #edeec9;
+  }
+  
+  #txtcerti {
+    color: #ffa31a;
+  }
+  .display-4 {
+    color: #1d2d44;
+  }
+  .lead {
+    color: #534751;
+  }
+  .Footerb {
+    background-color: #b38d97;
+  }
+  .Footerw {
+    background-color: #8b786d;
+  }
+  .Footerc{
+    background-color: #52796f;
+  }
+  .Submit {
+    padding-top: 6rem;
+    background-color: #292929;
+  }
+  .marque {
+    font-size: xx-large;
+  }
+  

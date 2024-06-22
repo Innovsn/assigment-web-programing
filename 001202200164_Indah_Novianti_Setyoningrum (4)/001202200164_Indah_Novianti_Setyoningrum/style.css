@@ -1,0 +1,138 @@
+header{
+    text-align: center;
+    font-size: 2.8rem;
+    color:#403d39;
+    padding: 1rem 9%;
+    margin: 0 rem 0;
+    background: #fbccda;   
+}
+
+body {
+    background-color: #e6e6ff;
+    font-size: x-large;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    list-style-position: outside;
+}
+
+
+input[type=button] {
+    background-color: #8e9aaf;
+    color: white;
+    margin-top: 22px;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.4s;
+    
+}
+
+input[type=button]:hover {
+    background-color: #d6ccc2;
+}
+
+footer {
+    position: fixed;
+    text-align: center;
+    text-align: center;
+    padding: 1.5rem;
+    margin-top: 1.5rem;
+    padding-top: 2rem;
+    border-top: .1rem solid #04151F;
+}
+.Footerw {
+    background-color: #6c757d;
+   
+
+  }
+.name {
+    text-decoration: none;
+    color: white;
+}
+
+
+#result {
+    white-space: pre-wrap;
+    line-height: 1;
+}
+
+#display {
+    font-size: xx-large;
+    line-height: 0;
+}
+
+#list {
+    white-space: pre-wrap;
+    line-height: 1;
+}
+
+#list2 {
+    white-space: pre-wrap;
+    line-height: 1.25;
+    padding-left: 11%;
+}
+
+#title{
+    font-size: xx-large;
+    padding-top: 11px;
+}
+
+.bulletsCentered {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+}
+
+.bulletsCentered>ul {
+    display: inline-block;
+}
+
+img {
+    border-radius: 99%;
+}
+
+.tab {
+    overflow: hidden;
+    border: 1px solid #ccd5ae;
+    background-color: #dbf5dc;
+    height: 220px;
+    width: 33%;
+    text-align: left;
+    display: inline-block;
+
+}
+
+.tab button {
+    background-color: #e6e6e6;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.4s;
+}
+
+.tab button:hover {
+    background-color: #ddd;
+}
+
+.tab button:active {
+    background-color: #e7c6ff;
+}
+
+.tabcontent {
+    display: none;
+        padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+
+.listposition li{
+    position: relative;
+    top: 39px
+}
+
+.tablinks{
+    width: 50%;
+}
